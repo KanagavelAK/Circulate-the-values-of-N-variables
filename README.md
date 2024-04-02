@@ -20,9 +20,10 @@ Print both the values it would be interchanged
 End the program 
 
 ## Program:
-```
-Name: Kanagavel A K
-Reg no: 212223230096
+### Name: Kanagavel A K
+### Reg no: 212223230096
+```Python
+
 def circulate():
     l=eval(input())
     n=int(input())
